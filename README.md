@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Mirza Mehedi Hasan</h1>
 <h3 align="center">A competitive programmer ,web developer all in on package.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mixa-01&label=Profile%20views&color=0e75b6&style=flat" alt="mixa-01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mixa-01&label=Profile%20views&color=blueviolet&style=flat" alt="mixa-01" /> </p>
 
 
 - 💯 Hi, I am currently doing a 100days code challange. [#100daysofcode](https://github.com/mixa-01/HTML-CSS-JAVA-Projects?tab=readme-ov-file)
